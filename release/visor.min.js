@@ -1,6 +1,6 @@
 /**visor
 * Angular authentication and authorization library
-* @version v0.1.2
+* @version v0.1.3
 * @link  https://github.com/illniyar/visor.git
 * @license MIT License, http://www.opensource.org/licenses/MIT
 */
